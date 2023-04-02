@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.cardText{
+  font-size: 20px;
+  color: whitesmoke;
+  font-weight: 400;
+}
+
+.contact{
+  height: 755px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactBox{
+  height: 406px;
+  width: 50%;
+}
+
+
